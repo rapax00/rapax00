@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rapax26
+- 👋 Hi, I’m Rapax
 - 👀 I’m interested in Crpytocurrencies.
-- 🌱 I’m currently study enginering on programation.
-- 📫 How to reach me Discord Rapax.eth#2982
+- 🌱 I’m currently study informatic engineering
+- 📫 How to reach me in Twitter @gasparrrx6
 
 <!---
 Rapax26/Rapax26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
