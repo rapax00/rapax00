@@ -2,6 +2,7 @@
 - 👀 I’m interested in Crpytocurrencies.
 - 🌱 I’m currently study informatic engineering
 - 📫 How to reach me in Twitter @gasparrrx6
+- 🛠️ Can contact me by work in https://www.linkedin.com/in/gaspar-pelayo-8b627824a/
 
 <!---
 Rapax26/Rapax26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
