@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rapax
 - 👀 I’m interested in Crpytocurrencies.
 - 🌱 I’m currently study informatic engineering
-- 📫 How to reach me in Twitter @gasparrrx6
+- 📫 How to reach me in https://linktr.ee/gaspar_pelayo
 - 🛠️ Can contact me by work in https://www.linkedin.com/in/gaspar-pelayo-8b627824a/
 
 <!---
