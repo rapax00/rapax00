@@ -3,7 +3,7 @@
 
 - 📕 I’m currently study informatic engineering.
 - 👀 I´m learning programming with **C++**, i interesting in **JavaScript** y **web develop**.
-- 👍 I like **tech**, **programming**, **design 3D** and **robotica**.
+- 👍 I like **tech**, **blockchain**, **programming**, **design 3D** and **robotica**.
 - ✉️ Contact me in gasparpelayo426@gmail.com
 
 <h4 align="left">My networks:</h4>
