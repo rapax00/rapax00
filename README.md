@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, here Rapax</h1>
+<h1 align="center">Hi 👋, here Rapax</h1>
 <h3 align="center">Tech and programming entusiast from Argentina.</h3>
 
 - 📕 I’m currently study informatic engineering.
