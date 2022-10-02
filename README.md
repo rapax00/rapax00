@@ -2,7 +2,7 @@
 <h3 align="center">Tech and programming entusiast from Argentina.</h3>
 
 - 📕 I’m currently study informatic engineering.
-- 👀 I´m learning programming with **C++**, i interesting in **JavaScript** y **web develop**.
+- 👀 I´m learning programming with **C++**, i interesting in **Unity videogames develop** and **Python**.
 - 👍 I like **tech**, **blockchain**, **programming**, **design 3D** and **robotica**.
 - ✉️ Contact me in gasparpelayo426@gmail.com
 
