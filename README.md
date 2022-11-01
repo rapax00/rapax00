@@ -4,7 +4,7 @@
 - 📕 I’m currently study informatic engineering.
 - 👀 I´m learning programming with **C++**, i interesting in **Unity videogames develop** and **Python**.
 - 👍 I like **tech**, **blockchain**, **programming**, **design 3D** and **robotica**.
-- ✉️ Contact me in gasparpelayo426@gmail.com
+- ✉️ Contact me in gasparpelayo44@gmail.com
 
 <h4 align="left">My networks:</h4>
 <p align="left">
