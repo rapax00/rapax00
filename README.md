@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, here Rapax</h1>
-<h3 align="center">Tech and programming entusiast from Argentina.</h3>
+<h3 align="center">Tech and programming enthusiast from Argentina.</h3>
 
-- 📕 I’m currently study informatic engineering.
-- 👀 I´m learning programming with **C++**, i interesting in **Unity videogames develop** and **Python**.
-- 👍 I like **tech**, **blockchain**, **programming**, **design 3D** and **robotica**.
+- 📕 I’m currently study Informatic Engineering.
+- 👀 I´m learning programming with **C++**, i interesting in **Data Base** and **robotics**.
+- 👍 I like **tech**, **blockchain**, **programming** and **design 3D**.
 - ✉️ Contact me in gasparpelayo44@gmail.com
 
 <h4 align="left">My networks:</h4>
