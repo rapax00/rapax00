@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, here Rapax</h1>
 <h3 align="center">Tech and programming enthusiast from Argentina.</h3>
 
-- 📕 I’m currently study Informatic Engineering.
+- 📕 I’m currently study Software Engineering.
 - 👀 I´m learning programming with **C++**, i interesting in **Data Base** and **robotics**.
 - 👍 I like **tech**, **blockchain**, **programming** and **design 3D**.
 - ✉️ Contact me in gasparpelayo44@gmail.com
