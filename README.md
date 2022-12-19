@@ -8,8 +8,8 @@
 
 <h4 align="left">My networks:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/gaspar-pelayo-8b627824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaspar-pelayo-8b627824a/" height="30" width="40" /></a>
-<a href="https://twitter.com/gasparrrx6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gasparrrx6" height="30" width="40" /></a>
+<a href="https://bit.ly/LinkedInRapax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/LinkedInRapax" height="30" width="40" /></a>
+<a href="https://bit.ly/TwitterRapax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://bit.ly/TwitterRapax" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/gasparrrx6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="https://www.reddit.com/user/gasparrrx6" height="30" width="40" /></a>
 </p>
 
